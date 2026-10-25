@@ -1,0 +1,14 @@
+{
+  "name": "ai-toolkit",
+  "description": "Reusable AI skills, prompts, tools, and resources.",
+  "owner": {
+    "name": "Ahmad"
+  },
+  "plugins": [
+    {
+      "name": "ship",
+      "source": "./plugins/ship",
+      "description": "One loop that makes your coding agent prove its work before it hands anything over."
+    }
+  ]
+}

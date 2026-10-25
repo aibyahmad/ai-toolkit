@@ -1,0 +1,12 @@
+{
+  "name": "ship",
+  "description": "Ship more reliable code. /ship:it runs one loop: grill you on what you want, build it to a high standard, run the checks, verify it in a real browser, get a fresh review, then hand over with proof.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Ahmad"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/aibyahmad/ai-toolkit/tree/main/plugins/ship",
+  "repository": "https://github.com/aibyahmad/ai-toolkit",
+  "keywords": ["verification", "code-review", "testing", "security", "software-factory"]
+}
