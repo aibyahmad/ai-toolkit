@@ -9,6 +9,11 @@
       "name": "ship",
       "source": "./plugins/ship",
       "description": "One loop that makes your coding agent prove its work before it hands anything over."
+    },
+    {
+      "name": "html-graphic-gen",
+      "source": "./plugins/html-graphic-gen",
+      "description": "Editable HTML graphics, motion visuals and accompanying post copy."
     }
   ]
 }
