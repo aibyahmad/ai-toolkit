@@ -35,10 +35,6 @@ Start a new Codex session and ask: "Use the Ship plugin's it skill to add a dark
 
 See [Ship's guide](plugins/ship/README.md) for prerequisites, setup, the individual skills, and the differences between tools.
 
-## Other creators
-
-[Grill / grilling](https://github.com/mattpocock/skills/blob/main/skills/productivity/grilling/SKILL.md) is by Matt Pocock. Get it from [the original repository](https://github.com/mattpocock/skills); it is not included or presented as Ahmad’s work here.
-
 ## License
 
 [MIT](LICENSE). The resources are free; your coding tool, model usage, and hosting may have their own costs.

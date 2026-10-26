@@ -67,10 +67,6 @@ See [the export guide](skills/html-graphic-gen/references/export.md) for high-re
 
 References are inspiration, not permission to copy another creator's work, identity or brand. Publish only claims and contents your resource actually supports.
 
-## Other creators
-
-[Grill / grilling](https://github.com/mattpocock/skills/blob/main/skills/productivity/grilling/SKILL.md) is by **Matt Pocock**, not Ahmad. Use [Matt's original repository](https://github.com/mattpocock/skills) for the skill and installation instructions. It is linked here for attribution; its files are not included in this plugin.
-
 ## License and checks
 
 [MIT](../../LICENSE). Third-party dependencies and assets retain their own licences.
